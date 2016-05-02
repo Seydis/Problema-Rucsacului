@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458464695 source:d:\proiecte uni\tehnici de programare\tema 3 rucsac\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
