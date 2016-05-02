@@ -20,13 +20,14 @@ void rucsacel ()
 {
     ifstream f("date.in");
     ofstream h("date.out");
-    int n, g,i, spatiu_liber;
+
+    int n, m,i, spatiu_liber;
     double p, val_total=0;
 
     f>>n;
-    f>>g;
+    f>>m;
 
-    spatiu_liber=g;
+    spatiu_liber=m;
 
     for (i=0; i<n; i++)
     {
