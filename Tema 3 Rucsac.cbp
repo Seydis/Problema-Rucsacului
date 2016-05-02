@@ -32,7 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../Tema 3 Sir Numere/date.in" />
+		<Unit filename="date.in" />
+		<Unit filename="date.out" />
 		<Unit filename="main.cpp" />
 		<Unit filename="rucsac.in" />
 		<Extensions>
